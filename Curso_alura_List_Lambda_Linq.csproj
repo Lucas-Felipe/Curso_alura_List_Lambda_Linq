@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="Modelos">
+      <HintPath>..\Curso_c-_Arrays_Genericos\Proj_Arrays_Genericos\bin\Debug\net5.0\Modelos.dll</HintPath>
+    </Reference>
     <Reference Include="Proj_Arrays_Genericos">
       <HintPath>..\Curso_c-_Arrays_Genericos\Proj_Arrays_Genericos\bin\Debug\net5.0\Proj_Arrays_Genericos.dll</HintPath>
     </Reference>
